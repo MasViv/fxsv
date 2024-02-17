@@ -1,0 +1,23 @@
+#modal
+{
+    font-size:22px;
+    border:1px solid white;
+    float:right;
+    background-color:black;
+}
+
+#start, #status
+{
+    font-size:22px;
+}
+
+.heading
+{
+width:100%;
+text-align:left;
+}
+
+.heading h3
+{
+display:inline;
+}
